@@ -16,7 +16,7 @@ Para executar o site, siga estas etapas:
 - Navegue pelo site usando os links no menu de navegação.
 
 ## Contribuindo com o desenvolvimento do site
-Este repositório é aberto à contribuição da comunidade. Se você é desenvolvedor, designer ou tem conhecimentos em web design e deseja contribuir com o desenvolvimento e manutenção do site de notícias, fique à vontade para enviar pull requests.
+Este repositório é aberto à contribuição da comunidade. Se você é desenvolvedor, designer ou tem conhecimentos em web design e deseja contribuir com o desenvolvimento e manutenção do front-end, fique à vontade para enviar pull requests.
 
 Kalebe Chagas Nobre Lima
 
